@@ -1,0 +1,13 @@
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.csprojAssemblyReference.cache
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.Properties.Resources.resources
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.csproj.GenerateResource.cache
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\bin\Debug\Laboratorio1_Windows_Ticona.exe.config
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\bin\Debug\Laboratorio1_Windows_Ticona.exe
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\bin\Debug\Laboratorio1_Windows_Ticona.pdb
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.exe
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.pdb
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.FormMayor.resources
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.FormOperaciones1.resources
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.FormSuma.resources
+C:\Users\Jhon\source\repos\Laboratorio1_Windows_Ticona\obj\Debug\Laboratorio1_Windows_Ticona.FormOperaciones2.resources
